@@ -11,11 +11,12 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-FireTruck-81a5abe8-9f80-46df-ba85-496b5bda95aa")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("FireTruck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aba01b4960f9fb58c2198d2bb5c38997475c91a")]
 [assembly: System.Reflection.AssemblyProductAttribute("FireTruck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FireTruck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

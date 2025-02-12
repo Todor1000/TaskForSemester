@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using FireTruck.Models;
 
 namespace FireTruck.Data
 {
@@ -9,5 +10,6 @@ namespace FireTruck.Data
             : base(options)
         {
         }
+        public DbSet<FireTruck.Models.FireStaiton> FireStaiton { get; set; } = default!;
     }
 }

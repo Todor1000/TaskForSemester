@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FireTruck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aba01b4960f9fb58c2198d2bb5c38997475c91a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db97dd063290e4464534d9c210825925bd73d8c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("FireTruck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FireTruck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
